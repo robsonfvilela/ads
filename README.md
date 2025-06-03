@@ -60,7 +60,7 @@
 ## Outros Cursos
 
 - **[Curso de Kotlin](outros_cursos/CursoDeKotlin-/)** `em andamento`
-  - Curso do [@ThiagoAguiar](https://www.youtube.com/watch?v=4lOjDziyce8&list=PLJ0AcghBBWSj0i1SQfr3GdwUBnUaIf5xw)disponibilizado no YouTube em 27 vídeos.
+  - Curso do [@ThiagoAguiar](https://www.youtube.com/watch?v=4lOjDziyce8&list=PLJ0AcghBBWSj0i1SQfr3GdwUBnUaIf5xw), disponibilizado no YouTube em 27 vídeos.
 - [Tecvideo](outros_cursos/exercicios-tecvideo/)
 
 
