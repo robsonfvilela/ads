@@ -1,9 +1,6 @@
 # Análise e Desenvolvimento de Sistemas
 
-[Disciplinas](README.md#disciplinas) | 
-[Ouros](README.md#outros-cursos) | 
-[Documentos](README.md#documentos) | 
-[Respositório](README.md#repositório)
+[Disciplinas](README.md#disciplinas) | [Ouros](README.md#outros-cursos) | [Documentos](README.md#documentos) | [Respositório](README.md#repositório)
 
 - **Instituição:** Descomplica Faculdade Digital (Centro Universitário União das Américas Descomplica)
 - **Data da matrícula:** 2025-06-02
@@ -62,7 +59,8 @@
 
 ## Outros Cursos
 
-- [Curso de Kotlin](outros_cursos/CursoDeKotlin-/)
+- **[Curso de Kotlin](outros_cursos/CursoDeKotlin-/)** `em andamento`
+  - Curso do [@ThiagoAguiar](https://www.youtube.com/watch?v=4lOjDziyce8&list=PLJ0AcghBBWSj0i1SQfr3GdwUBnUaIf5xw)disponibilizado no YouTube em 27 vídeos.
 - [Tecvideo](outros_cursos/exercicios-tecvideo/)
 
 
@@ -75,6 +73,7 @@
 ---
 
 ## Repositório
+Sobre este repositório.
 
 ### HTTPS
 
