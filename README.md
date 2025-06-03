@@ -1,8 +1,9 @@
 # Análise e Desenvolvimento de Sistemas
 
-[Disciplinas](README.md#Disciplinas) | 
-[Ouros](README.md#Outros) | 
-[Respositório](README.md#Repositório)
+[Disciplinas](README.md#disciplinas) | 
+[Ouros](README.md#outros-cursos) | 
+[Documentos](README.md#documentos) | 
+[Respositório](README.md#repositório)
 
 - **Instituição:** Descomplica Faculdade Digital (Centro Universitário União das Américas Descomplica)
 - **Data da matrícula:** 2025-06-02
@@ -10,8 +11,7 @@
 
 
 
-
-## [Disciplinas](Documentos/ads.pdf)
+## Disciplinas
 
 ### Basic FrontEnd
 - [Desenvolvimento FrontEnd]()
@@ -30,7 +30,6 @@
 ### BackEnd Developer
 - [Modelagem de Bancos de Dados]()
 - [Prática Integradora em Desenvolvimento]()
-- []()
 
 ### FrontEnd Developer
 - [Programação II]()
@@ -40,7 +39,6 @@
 ### Full Stack Developer
 - [Framework]()
 - [Prática Integradora Desenvolvimento de Apps]()
-- []()
 
 ### Devops Strategist
 - [Cloud Computing]()
@@ -50,7 +48,6 @@
 ### Full cycle developer
 - [Monitoramento]()
 - [Prática Integradora na Nuvem]()
-- []()
 
 ### Smart Manager
 - [Metodologia Ágil]()
@@ -60,30 +57,19 @@
 ### Advanced Tester
 - [Testes]()
 - [Prática Integradora com Métodos Ágeis]()
-- []()
-
-### Programmer
-- []()
-- []()
-- []()
-
-### Programmer
-- []()
-- []()
-- []()
-
-### Programmer
-- []()
-- []()
-- []()
-
-### Programmer
-- []()
-- []()
-- []()
 
 
-## Outros
+
+## Outros Cursos
+
+- [Curso de Kotlin](outros_cursos/CursoDeKotlin/)
+- [Tecvideo](outros_cursos/exercicios-tecvideo/)
+
+
+
+## Documentos
+- [Ementa do Curso](Documentos/ads.pdf)
+
 
 
 ---
