@@ -60,5 +60,4 @@ fun main() {
         println("Falha....")
     }
     // O código acima retorna erro, dizendo que nenhum número é divisível por Zero. Ele fez isso, porque já passou pela primeira expressão, que é verdadeira. Em seguida, ele verifica a segunda.
-
 }
