@@ -62,7 +62,7 @@
 
 ## Outros Cursos
 
-- [Curso de Kotlin](outros_cursos/CursoDeKotlin/)
+- [Curso de Kotlin](outros_cursos/CursoDeKotlin-/)
 - [Tecvideo](outros_cursos/exercicios-tecvideo/)
 
 
@@ -76,16 +76,17 @@
 
 ## Repositório
 
-**HTTPS**
+### HTTPS
 
 `https://github.com/robsonfvilela/ads-descomplica.git`
 
-**SSH**
+### SSH
 
 `git@github.com:robsonfvilela/ads-descomplica.git`
 
 Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
-## …or create a new repository on the command line
+
+### Create a new repository on the command line
 `echo "# ads-descomplica" >> README.md`
 
 `git init`
@@ -100,7 +101,7 @@ Get started by creating a new file or uploading an existing file. We recommend e
 
 `git push -u origin programming`
 
-## …or push an existing repository from the command line
+### Push an existing repository from the command line
 `git remote add origin https://github.com/robsonfvilela/ads-descomplica.git`
 
 `git branch -M programming`

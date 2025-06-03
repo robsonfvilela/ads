@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="kotlin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/outros_cursos/CursoDeKotlin/src/main/kotlin/testes01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/outros_cursos/CursoDeKotlin/src/main/kotlin/aula10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/outros_cursos/CursoDeKotlin/src/main/kotlin/Conversao.jar!/" />
+      <root url="jar://$PROJECT_DIR$/outros_cursos/CursoDeKotlin/src/main/kotlin/Main.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
