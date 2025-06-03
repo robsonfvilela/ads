@@ -1,31 +1,122 @@
 # Análise e Desenvolvimento de Sistemas
-*Faculdade Descomplica EaD*
 
-Use GitHub's AI pair programmer to autocomplete suggestions as you code.
+[Disciplinas](README.md#Disciplinas) | 
+[Ouros](README.md#Outros) | 
+[Respositório](README.md#Repositório)
 
-Add collaborators to this repository
-Search for people using their GitHub username or email address.
+- **Instituição:** Descomplica Faculdade Digital (Centro Universitário União das Américas Descomplica)
+- **Data da matrícula:** 2025-06-02
+- **Reconhecimento junto ao MEC:** [PORTARIA N° 161, DE 23 de abril de 2024](Documentos/Portaria_161_(2024-04-23).pdf).
 
-Quick setup — if you’ve done this kind of thing before
-or	
-	
-HTTPS
-https://github.com/robsonfvilela/ads-descomplica.git
 
-SSH
-git@github.com:robsonfvilela/ads-descomplica.git
+
+
+## [Disciplinas](Documentos/ads.pdf)
+
+### Basic FrontEnd
+- [Desenvolvimento FrontEnd]()
+- [Desenvolvimento Din6amico]()
+- [Experiência do Usuário]()
+
+### Programmer
+- [Empreendedorismo e Criação de Novos Negócios]()
+- [Lógica de Programação]()
+
+### Object-Oriented Developer
+- [Design de Software]()
+- [Programação I]()
+- [Estruturas de Dados para Sistemas Inteligentes]()
+
+### BackEnd Developer
+- [Modelagem de Bancos de Dados]()
+- [Prática Integradora em Desenvolvimento]()
+- []()
+
+### FrontEnd Developer
+- [Programação II]()
+- [Arquitetura de Computadores do Século XXI]()
+- [Desenvolvimento Mobile]()
+
+### Full Stack Developer
+- [Framework]()
+- [Prática Integradora Desenvolvimento de Apps]()
+- []()
+
+### Devops Strategist
+- [Cloud Computing]()
+- [Devops I]()
+- [Devops II]()
+
+### Full cycle developer
+- [Monitoramento]()
+- [Prática Integradora na Nuvem]()
+- []()
+
+### Smart Manager
+- [Metodologia Ágil]()
+- [Segurança Tecnológica]()
+- [Compliance]()
+
+### Advanced Tester
+- [Testes]()
+- [Prática Integradora com Métodos Ágeis]()
+- []()
+
+### Programmer
+- []()
+- []()
+- []()
+
+### Programmer
+- []()
+- []()
+- []()
+
+### Programmer
+- []()
+- []()
+- []()
+
+### Programmer
+- []()
+- []()
+- []()
+
+
+## Outros
+
+
+---
+
+## Repositório
+
+**HTTPS**
+
+`https://github.com/robsonfvilela/ads-descomplica.git`
+
+**SSH**
+
+`git@github.com:robsonfvilela/ads-descomplica.git`
 
 Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
 ## …or create a new repository on the command line
-echo "# ads-descomplica" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M programming
-git remote add origin https://github.com/robsonfvilela/ads-descomplica.git
-git push -u origin programming
+`echo "# ads-descomplica" >> README.md`
+
+`git init`
+
+`git add README.md`
+
+`git commit -m "first commit"`
+
+`git branch -M programming`
+
+`git remote add origin https://github.com/robsonfvilela/ads-descomplica.git`
+
+`git push -u origin programming`
 
 ## …or push an existing repository from the command line
-git remote add origin https://github.com/robsonfvilela/ads-descomplica.git
-git branch -M programming
-git push -u origin programming
+`git remote add origin https://github.com/robsonfvilela/ads-descomplica.git`
+
+`git branch -M programming`
+
+`git push -u origin programming`
