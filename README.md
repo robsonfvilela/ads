@@ -12,7 +12,7 @@
 
 ### Basic FrontEnd
 - [Desenvolvimento FrontEnd]()
-- [Desenvolvimento Din6amico]()
+- [Desenvolvimento Dinâmico]()
 - [Experiência do Usuário]()
 
 ### Programmer
