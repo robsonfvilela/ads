@@ -9,12 +9,12 @@ fun main() {
     // FUNCTIONS >> O computador começa a ler a partir da MAIN
     // Funções >> Permite criar BLOCOS REUTILIZÁVEIS.
 
-    olaMundo() // CALL >> fazer a chamada de uma função
+    olaMundao() // CALL >> fazer a chamada de uma função
 }
 
 // Criar uma função personalizada
 
-fun olaMundo() /* Declaração da função */ { /* Body da função */
+fun olaMundao() /* Declaração da função */ { /* Body da função */
     println("Olá")
     println("Mundo")
 
