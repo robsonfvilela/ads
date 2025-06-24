@@ -59,7 +59,11 @@
 
 ## Outros Cursos
 
-- **[Curso de Kotlin](outros_cursos/CursoDeKotlin/)** `em andamento`
+- **[Curso de Algoritmos (Gustavo Guanabara)](outros_cursos/LogicaDeProgramacao_Guanabara/)** `Em andamento` 
+  - Curso de Lógica de Programação do Canal [@CursoemVídeo](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV).
+  - Início: `2025-06-23`.
+  - Conclusão: `2025-xx-xx`.
+- **[Curso de Kotlin](outros_cursos/CursoDeKotlin/)** `✅`
   - Curso do [@ThiagoAguiar](https://www.youtube.com/watch?v=4lOjDziyce8&list=PLJ0AcghBBWSj0i1SQfr3GdwUBnUaIf5xw), disponibilizado no YouTube em 29 vídeos.
 - [Tecvideo](outros_cursos/exercicios-tecvideo/)
 
