@@ -1,9 +1,9 @@
 algoritmo "Nome do Programa"
 // Disciplina  :  [Linguagem e Lógica de Programação]
-// Professor   : [Nome do Professor]
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Professor   : Gustavo Gauanabara
+// Descrição   : Melhor aluno da turma
 // Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : DATA_ATUAL/MES_ATUAL/ANO_ATUAL
+// Data atual  : 2025-06-26
 var
 
     contador, numeroAlunos: Inteiro
@@ -40,3 +40,5 @@ inicio
 
     escreva("O melhor aproveitamento foi de ", melhorAluno, " com a nota ", maiorNota, ".")
 fimalgoritmo
+
+// Desafio concluído com sucesso! 😁
