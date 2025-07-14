@@ -64,7 +64,7 @@
 - [Desafio 01: Contagem regressiva ou progressiva](aula_09h.alg)
 - [Desafio 02: Melhor aluno da turma](aula_09i.alg)
 
-## Aula 9: Estruturas de Repetição 2
+## Aula 10: Estruturas de Repetição 2
 
 - [Arquivo A](aula_10a.alg): Somador com estrutura `enquanto`
 - [Arquivo B](aula_10b.alg): Versão modificada do [Arquivo A](aula_10b.alg).
@@ -78,3 +78,75 @@
   - Versão do Guanabara.
   - No meu [código](aula_10g.alg), perdi o valor original do número, o que não aconteceu no código do Guanabara. 😬
 - [Arquivo I](aula_10i.alg): Um `repita` dentro de outro `repita`
+- [Arquivo J](aula_10j.alg): Identificador de Número Primo.
+- [Arquivo K](aula_10k.alg): Super Contador
+- [Arquivo L](aula_10l.alg): Escolhendo Pessoas: Quantos homens com cabelo castanho e mais de 18 anos ? E quantas mulheres loiras com idade entre 25 e 30 anos?
+
+## Aula 11: Estruturas de Repetição 3
+
+**Recaptulando `ENQUANTO`:**
+
+```c
+ENQUANTO nao_arrumar_o_quarto FACA
+  Castigo
+FIMENQUANTO
+liberado
+
+---
+// exemplo
+C <- 1
+Enquanto (C <= 10) Faca
+  Escreval(C)
+  C <- C + 1
+FimEnquanto
+```
+
+**Recaptulando `REPITA`:**
+
+```c
+REPITA
+  Castigo
+ATE arrumar_o_quarto
+liberado
+
+→ Repita É o inverso lógico do Enquanto
+
+---
+// exemplo
+C <- 1
+Repita
+  Escreval(C)
+  C <- C + 1
+Ate (C > 10)
+```
+
+**Nova estrutura `PARA`:**
+
+```c
+PARA variavel <- inicio ATE fim [PASSO salto] FACA
+  Bloco
+FIMPARA
+```
+
+```c
+PARA C <- 1 ATE 10 PASSO 1 FACA
+   escreval(C)
+FIMPARA
+
+---
+// Exemplo
+Para C <- 1 ate 10 faca
+    escreval(C)
+FimPara
+```
+
+- [Arquivo A](aula_11a.alg): Primeiros exemplos.
+- [Arquivo B](aula_11b.alg): Exemplo de Somador com `ENQUANTO`.
+- [Arquivo C](aula_11c.alg): Exemplo de Somador com `PARA` substituindo `ENQUANTO`.
+- [Arquivo D](aula_11d.alg): Exemplo de Somador com `REPITA`. Se eu não sei quantas vezes vou repetir, o `PARA` não serve. Não sem gambiarra :P
+- [Arquivo E](aula_11e.alg): Contador de valores pares, de 2 em 2.
+- [Arquivo F](aula_11f.alg): Contador reverso de valores pares, de 2 em 2.
+- [Arquivo G](aula_11g.alg): Entre os 6 números digitados, quais estão entre 0 e 10?
+- [Arquivo H](aula_11h.alg): Entre os 6 números digitados, quais estão entre 0 e 10? Qual é a soma dos números ímpares entre 0 e 10?
+- [Arquivo I](aula_11i.alg): Entre os 6 números digitados, quais estão entre 0 e 10? Qual é a soma de todos os números ímpares?
+- [Arquivo J](aula_11j.alg): Aninhamento de estruturas de repetição.
