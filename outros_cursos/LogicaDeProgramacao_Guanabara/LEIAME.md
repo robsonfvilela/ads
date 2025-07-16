@@ -149,4 +149,11 @@ FimPara
 - [Arquivo G](aula_11g.alg): Entre os 6 números digitados, quais estão entre 0 e 10?
 - [Arquivo H](aula_11h.alg): Entre os 6 números digitados, quais estão entre 0 e 10? Qual é a soma dos números ímpares entre 0 e 10?
 - [Arquivo I](aula_11i.alg): Entre os 6 números digitados, quais estão entre 0 e 10? Qual é a soma de todos os números ímpares?
-- [Arquivo J](aula_11j.alg): Aninhamento de estruturas de repetição.
+- [Arquivo J](aula_11j.alg): Aninhamento de estruturas de repetição. Combinações.
+- [Arquivo K](aula_11k.alg): Sequência de Fibonachi (Deveria mostrar apenas os 15 primeiros valores, mas mostra 16...). ❌
+- [Arquivo L](aula_11l.alg): Analisador de valores.
+
+## Aula 12: Procedimentos
+
+- [Arquivo A](aula_12a.alg): "Detector do Mais Pesado", um exemplo de procedimento.
+- [Arquivo B](aula_12b.alg): Passagem de Parâmetro.
