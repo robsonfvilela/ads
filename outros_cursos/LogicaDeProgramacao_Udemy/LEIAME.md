@@ -102,5 +102,26 @@ while (condição) {
 >> F: pula fora
 ````
 
-- [Arquivo A](aula_14７a.c): Estrutura
+- [Arquivo A](aula_147a.c): Estrutura
 
+## Estrutura FOR
+
+- [Arquivo A](estrutura_para.c): Código de exemplo
+
+```c
+for (inicio ; condição ; incremento) {
+    comando1
+    comando2
+}
+
+→ inicio: executa somente na primeira vez;
+→ condição: Se TRUE, executa e volta. Se FALSE, termina.
+→ incremento: executa toda vez depois de voltar.
+
+---
+for (i = 1; i <= N; i++) {
+    // Começa com i = 1
+    // Termina com i = N
+    // Acrescenta i (que foi definido como 1) a cada volta
+}
+```
