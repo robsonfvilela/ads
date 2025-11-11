@@ -63,22 +63,27 @@
 - [Testes]()
 - [Prática Integradora com Métodos Ágeis]()
 
+<!---------------- OUTROS CURSOS --------------->
 ## Outros Cursos
 
 - **[Curso de Algoritmos (Gustavo Guanabara)](outros_cursos/LogicaDeProgramacao_Guanabara/LEIAME.md)** `Em andamento`
 - **[Curso de Kotlin](outros_cursos/CursoDeKotlin/)** `✅`
   - Curso do [@ThiagoAguiar](https://www.youtube.com/watch?v=4lOjDziyce8&list=PLJ0AcghBBWSj0i1SQfr3GdwUBnUaIf5xw), disponibilizado no YouTube em 29 vídeos.
 - [Tecvideo](outros_cursos/exercicios-tecvideo/)
+- [Dio Bradesco (bootcamp)](outros_cursos/DioBradesco/)
 
+<!---------------- DOCUMENTOS ------------------>
 ## Documentos
 
 - [Ementa do Curso](Documentos/ads.pdf)
 
+<!---------------- DOCUMENTAÇÃO ---------------->
 ## Documentação
 
 - [InteliJ IDEA](documentacao/intelij.pdf)
 ---
 
+<!---------------- REPOSITÓRIO ----------------->
 ## Repositório
 
 Sobre este repositório.

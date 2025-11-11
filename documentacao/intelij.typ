@@ -44,7 +44,7 @@
 
 
 
-// ====================================s
+// ==================================== 
 
 = InteliJ IDEA
 
@@ -63,6 +63,13 @@ System.out.println();
 
 3. `alt` + `enter`: sobre uma palavra, para abrir o menu de criar uma nova *Classe*.
 
+
+
+
+
+#pagebreak()
+
+// Typst
 
 = Typst
 
