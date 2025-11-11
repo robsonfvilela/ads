@@ -74,6 +74,9 @@
 
 - [Ementa do Curso](Documentos/ads.pdf)
 
+## Documentação
+
+- [InteliJ IDEA](documentacao/intelij.pdf)
 ---
 
 ## Repositório
