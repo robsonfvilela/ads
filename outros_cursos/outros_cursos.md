@@ -1,22 +1,13 @@
 # Outros Cursos
 
-## Dio Bradesco (bootcamp)
+> [Home](../README.md)
 
+## Outros Cursos
 
-## InteliJ IDEA
-
-### Atalhos
-- `psvm` + `tab`:
-```java
-public static void main(String[] args) {
-      
-   }
-```
-
-- `sout` + `Tab`: 
-```java
-System.out.println();
-```
-
-- `alt` + `enter`: sobre uma palavra, para abrir o menu de criar uma nova *Classe*.
-
+- **[Curso de Algoritmos (Gustavo Guanabara)](LogicaDeProgramacao_Guanabara/LEIAME.md)** `Em andamento`
+- **[Curso de Kotlin](CursoDeKotlin/)** `✅`
+  - Curso do [@ThiagoAguiar](https://www.youtube.com/watch?v=4lOjDziyce8&list=PLJ0AcghBBWSj0i1SQfr3GdwUBnUaIf5xw), disponibilizado no YouTube em 29 vídeos.
+- [Curso de C](CursoDeC/)
+- [Dio Bradesco (bootcamp)](DioBradesco/)
+- [Lógica de Programaçaão — Udemy](LogicaDeProgramacao_Udemy)
+- [Tecvideo](exercicios-tecvideo/)

@@ -1,88 +1,19 @@
 # Análise e Desenvolvimento de Sistemas
 
-[Disciplinas](README.md#disciplinas) | [Ouros](README.md#outros-cursos) | [Documentos](README.md#documentos) | [Respositório](README.md#repositório)
+<!-- [Disciplinas](README.md#disciplinas) | [Ouros](README.md#outros-cursos) | [Documentos](README.md#documentos) | [Respositório](README.md#repositório) -->
 
 - **Instituição:** Descomplica Faculdade Digital (Centro Universitário União das Américas Descomplica)
 - **Data da matrícula:** 2025-06-02
-- **Reconhecimento junto ao MEC:** [PORTARIA N° 161, DE 23 de abril de 2024](Documentos/Portaria_161_(2024-04-23).pdf).
+- **Reconhecimento junto ao MEC:** [PORTARIA N° 161, DE 23 de abril de 2024](descomplica/documentos/Portaria_161_(2024-04-23).pdf).
 
-## Disciplinas
+## [Disciplinas](descomplica/descomplica.md)
+[Disciplinas](descomplica/descomplica.md) do curso de Análise e Desenvolvimento de Sistemas.
 
-### Basic FrontEnd
+## [Documentação](documentacao/documentacao.md)
+[Documentações](documentacao/documentacao.md) diversas: apps, terminais, etc.
 
-- [Desenvolvimento FrontEnd]()
-- [Desenvolvimento Dinâmico]()
-- [Experiência do Usuário]()
-
-### Programmer
-
-- [Empreendedorismo e Criação de Novos Negócios]()
-- [Lógica de Programação]()
-
-### Object-Oriented Developer
-
-- [Design de Software]()
-- [Programação I]()
-- [Estruturas de Dados para Sistemas Inteligentes]()
-
-### BackEnd Developer
-
-- [Modelagem de Bancos de Dados]()
-- [Prática Integradora em Desenvolvimento]()
-
-### FrontEnd Developer
-
-- [Programação II]()
-- [Arquitetura de Computadores do Século XXI]()
-- [Desenvolvimento Mobile]()
-
-### Full Stack Developer
-
-- [Framework]()
-- [Prática Integradora Desenvolvimento de Apps]()
-
-### Devops Strategist
-
-- [Cloud Computing]()
-- [Devops I]()
-- [Devops II]()
-
-### Full cycle developer
-
-- [Monitoramento]()
-- [Prática Integradora na Nuvem]()
-
-### Smart Manager
-
-- [Metodologia Ágil]()
-- [Segurança Tecnológica]()
-- [Compliance]()
-
-### Advanced Tester
-
-- [Testes]()
-- [Prática Integradora com Métodos Ágeis]()
-
-<!---------------- OUTROS CURSOS --------------->
-## Outros Cursos
-
-- **[Curso de Algoritmos (Gustavo Guanabara)](outros_cursos/LogicaDeProgramacao_Guanabara/LEIAME.md)** `Em andamento`
-- **[Curso de Kotlin](outros_cursos/CursoDeKotlin/)** `✅`
-  - Curso do [@ThiagoAguiar](https://www.youtube.com/watch?v=4lOjDziyce8&list=PLJ0AcghBBWSj0i1SQfr3GdwUBnUaIf5xw), disponibilizado no YouTube em 29 vídeos.
-- [Tecvideo](outros_cursos/exercicios-tecvideo/)
-- [Dio Bradesco (bootcamp)](outros_cursos/DioBradesco/)
-
-<!---------------- DOCUMENTOS ------------------>
-## Documentos
-
-- [Ementa do Curso](Documentos/ads.pdf)
-
-<!---------------- DOCUMENTAÇÃO ---------------->
-## Documentação
-
-- [InteliJ IDEA](documentacao/intelij.pdf)
----
-
+## [Outros Cursos](outros_cursos/outros_cursos.md)
+[Outros cursos](outros_cursos/outros_cursos.md), de plataformas diversas.
 <!---------------- REPOSITÓRIO ----------------->
 ## Repositório
 
