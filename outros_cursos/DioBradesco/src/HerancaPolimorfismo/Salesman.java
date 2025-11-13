@@ -1,0 +1,13 @@
+package HerancaPolimorfismo;
+
+public class Salesman extends Employee {
+    private double percentSold;
+
+    public double getPercentSold() {
+        return percentSold;
+    }
+
+    public void setPercentSold(double percentSold) {
+        this.percentSold = percentSold;
+    }
+}
