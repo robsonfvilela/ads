@@ -10,5 +10,14 @@ public class Main {
 
         System.out.println(pet[0].getNome());
 
+        // Máquina
+        Machine machine = new Machine();
+
+        System.out.println(machine.abastecerAgua());
+        System.out.println(machine.verificarAgua());
+        machine.darBanho();
+        System.out.println(pet[0].isLimpo());
+
+
     }
 }

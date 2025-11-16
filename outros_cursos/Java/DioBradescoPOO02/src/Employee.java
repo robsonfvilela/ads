@@ -1,6 +1,5 @@
-package HerancaPolimorfismo;
-
-public class Employee {
+// 'abstract' >> Uma classe abstrata não pode ser instanciada!!!
+public sealed abstract class Employee permits Manager, Salesman {
     private String code;
     private String name;
     private String address;

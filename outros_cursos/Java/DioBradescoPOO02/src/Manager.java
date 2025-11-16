@@ -1,6 +1,4 @@
-package HerancaPolimorfismo;
-
-public class Manager extends Employee { //
+public non-sealed class Manager extends Employee { //
     private String login;
     private String password;
     private double commission;
@@ -29,3 +27,4 @@ public class Manager extends Employee { //
         this.commission = commission;
     }
 }
+
