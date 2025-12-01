@@ -14,7 +14,7 @@ public class Pessoa {
         return nome;
     }
 
-    public void setNome() {
+    public void setNome(String nome) {
         this.nome = nome;
     }
 
@@ -22,7 +22,7 @@ public class Pessoa {
         return idade;
     }
 
-    public void setIdade() {
+    public void setIdade(int idade) {
         this.idade = idade;
     }
 
@@ -30,7 +30,7 @@ public class Pessoa {
         return sexo;
     }
 
-    public void setSexo() {
+    public void setSexo(char sexo) {
         this.sexo = sexo;
     }
 
